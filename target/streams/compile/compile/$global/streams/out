@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/asanu/Documents/cobaScala/image/src/main/scala/example/Hello.scala:128:5: not found: value totpanel[0m
+[0m[[0m[31merror[0m] [0m[0m    totpanel = rightpanel:::leftpanel[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/asanu/Documents/cobaScala/image/src/main/scala/example/Hello.scala:129:5: not found: value totpanel[0m
+[0m[[0m[31merror[0m] [0m[0m    totpanel[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
