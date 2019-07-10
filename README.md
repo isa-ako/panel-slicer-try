@@ -2,6 +2,8 @@
 it's a simple concept about slicing panels of a comic strip with 4-koma layout.
 this code's purpose is to convert 4-koma layout into webtoon format.
 
+[jump to the code](src/main/scala/example/Hello.scala)
+
 method :
 breaking panels from upper left to the bottom,
 then move to the right side of the top panel earlier,
